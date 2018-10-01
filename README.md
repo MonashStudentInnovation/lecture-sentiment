@@ -1,7 +1,8 @@
-# lecture-sentiment
+# Lecture Sentiment
 
-The Code for analysing the sentiment during the talk
+The Code for analysing the sentiment of a lecture during the IBL seminar presented in April 2018.
 
+# Project Setup
 To install dependencies run
 
 ```
@@ -11,7 +12,7 @@ npm install
 yarn
 ```
 
-To run project
+To run the project
 
 ```
 npm start
